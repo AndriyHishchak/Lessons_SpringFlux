@@ -1,6 +1,6 @@
-package SpringFlux.Start.Lessons_21_WebFlux_Rest_service.repo;
+package SpringFlux.Start.Lesson_21_WebFlux_Rest_service.repo;
 
-import SpringFlux.Start.Lessons_21_WebFlux_Rest_service.model.Castomer;
+import SpringFlux.Start.Lesson_21_WebFlux_Rest_service.model.Castomer;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Mono;

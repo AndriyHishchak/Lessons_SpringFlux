@@ -1,7 +1,7 @@
-package SpringFlux.Start.Lessons_21_WebFlux_Rest_service;
+package SpringFlux.Start.Lesson_31_Functional_request;
 
-import SpringFlux.Start.Lessons_21_WebFlux_Rest_service.model.Castomer;
-import SpringFlux.Start.Lessons_21_WebFlux_Rest_service.repo.RepoCastomers;
+import SpringFlux.Start.Lesson_31_Functional_request.model.Castomer;
+import SpringFlux.Start.Lesson_31_Functional_request.repo.RepoCastomers;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
