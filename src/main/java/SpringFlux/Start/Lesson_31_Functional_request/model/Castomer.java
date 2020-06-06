@@ -1,4 +1,4 @@
-package SpringFlux.Start.Lessons_21_WebFlux_Rest_service.model;
+package SpringFlux.Start.Lesson_31_Functional_request.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

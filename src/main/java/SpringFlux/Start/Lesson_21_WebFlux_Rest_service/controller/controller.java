@@ -1,7 +1,7 @@
-package SpringFlux.Start.Lessons_21_WebFlux_Rest_service.controller;
+package SpringFlux.Start.Lesson_21_WebFlux_Rest_service.controller;
 
-import SpringFlux.Start.Lessons_21_WebFlux_Rest_service.model.Castomer;
-import SpringFlux.Start.Lessons_21_WebFlux_Rest_service.repo.RepoCastomers;
+import SpringFlux.Start.Lesson_21_WebFlux_Rest_service.model.Castomer;
+import SpringFlux.Start.Lesson_21_WebFlux_Rest_service.repo.RepoCastomers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
