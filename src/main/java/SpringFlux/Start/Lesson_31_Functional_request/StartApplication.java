@@ -31,9 +31,7 @@ public class StartApplication {
 							repoCastomers.save(castomer)
 							.subscribe(System.out::println);
 						});
-
 					});
 		};
 	}
-
 }
